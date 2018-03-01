@@ -15,7 +15,7 @@ ECMAscript 2 | June 1998
 ECMAscript 3 | December 1999
 ECMAscript 4 | Abandoned ( Never Released )
 ECMAscript 5 | December 2009
-ECMAscript 5.1 | June 20011
+ECMAscript 5.1 | June 2001
 ECMAscript 6 | June 2015
 ECMAscript 7 | June 2016
 ECMAscript 8 | June 2017
